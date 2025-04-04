@@ -9,7 +9,3 @@ def multi():
 
 multi()
 
-def mostrar():
-    print('Esta es la rama para desarrollar el Bakc-End')
-
-mostrar()
